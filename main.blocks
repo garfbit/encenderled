@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id=".nzGvxOWjli#YYsXDRUY" x="225" y="20"><statement name="HANDLER"><block type="basic_show_icon" id="D|IE^BD58{rt!P+.dfij"><field name="i">IconNames.Heart</field><next><block type="device_set_digital_pin" id="c8t8x,O$2P@8yhnzuHkm"><value name="name"><shadow type="digital_pin_shadow" id="^3n1W37k0a@b6O@HOK=_"><field name="pin">DigitalPin.P0</field></shadow></value><value name="value"><shadow type="math_number_minmax" id=")M_t/@qMN?)QB9tPBf|E"><mutation min="0" max="1" label="Value" precision="0"></mutation><field name="SLIDER">1</field></shadow></value></block></next></block></statement></block></xml>
